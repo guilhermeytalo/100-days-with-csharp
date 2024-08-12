@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6fd02c8f_002D5bf8_002D4cbb_002Db39d_002D721318c01a81/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Message_with_leading_and_trailing_white_space" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F044DBD1-85B9-47B7-B418-42A83540C240::net8.0::LogLevelsTests.Message_with_leading_and_trailing_white_space&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8241ae2a_002D6e65_002D48d1_002Dbec3_002D0d3f606804ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LogLevelsTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F044DBD1-85B9-47B7-B418-42A83540C240::net8.0::LogLevelsTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f614f815_002D1e2b_002D4a50_002Da65d_002D1e86ba8e7369/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LogLevelsTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F044DBD1-85B9-47B7-B418-42A83540C240::net8.0::LogLevelsTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

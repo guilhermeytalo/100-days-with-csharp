@@ -4,16 +4,21 @@ static class LogLine
 {
     public static string Message(string logLine)
     {
-        throw new NotImplementedException("Please implement the (static) LogLine.Message() method");
+        var msgTimmed = logLine.Trim();
+        
+        
+        return msgTimmed;
     }
 
     public static string LogLevel(string logLine)
     {
-        throw new NotImplementedException("Please implement the (static) LogLine.LogLevel() method");
+        string level = logLine;
+        return $"{level}: <MESSAGE>";
     }
 
     public static string Reformat(string logLine)
     {
-        throw new NotImplementedException("Please implement the (static) LogLine.Reformat() method");
+        string reformat = logLine;
+        return $"{reformat} ([<LEVEL>])";
     }
 }
